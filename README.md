@@ -1,2 +1,2 @@
 # leetcode
-solved leetcode questions.
+solving leetcode questions.
