@@ -1,0 +1,2 @@
+# leetcode
+solved leetcode questions.
